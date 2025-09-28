@@ -1,0 +1,3 @@
+[submodule "WebComponents"]
+	path = WebComponents
+	url = git@github.com:Jounos/WebComponents.git
