@@ -1,3 +1,6 @@
 [submodule "WebComponents"]
 	path = WebComponents
 	url = git@github.com:Jounos/WebComponents.git
+[submodule "TypeScriptParaAngular"]
+	path = TypeScriptParaAngular
+	url = git@github.com:Jounos/TypeScriptParaAngular.git
